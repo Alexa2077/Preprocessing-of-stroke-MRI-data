@@ -5,7 +5,7 @@
 颅骨剥离使用FSL工具箱中的bet2 配准操作使用antspy 归一化与标准化
 
 1，颅骨剥离    
-	1.1 FSL的安装  
+* 1.1 FSL的安装  
   1.2 nrrd格式转nii.gz   
   1.3 FSL之bet2颅骨剥离  
 
